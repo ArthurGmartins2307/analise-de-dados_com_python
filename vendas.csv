@@ -1,0 +1,87 @@
+data,produto,categoria,cidade,vendedor,quantidade,preco_unitario
+2026-01-03,Notebook,Eletronicos,Sao Paulo,Arthur,2,3500
+2026-01-04,Mouse,Acessorios,Santos,Joao,15,80
+2026-01-05,Teclado,Acessorios,Sao Paulo,Maria,8,150
+2026-01-07,Monitor,Eletronicos,Campinas,Carlos,3,1200
+2026-01-09,Notebook,Eletronicos,Santos,Ana,1,3500
+2026-01-11,Mouse,Acessorios,Sao Paulo,Pedro,20,80
+2026-01-13,Headset,Acessorios,Campinas,Juliana,6,250
+2026-01-15,Monitor,Eletronicos,Sao Paulo,Lucas,4,1200
+2026-01-18,Teclado,Acessorios,Santos,Marina,12,150
+2026-01-20,Notebook,Eletronicos,Campinas,Rafael,2,3500
+2026-01-22,Mouse,Acessorios,Santos,Beatriz,18,80
+2026-01-25,Headset,Acessorios,Sao Paulo,Gabriel,10,250
+2026-01-27,Monitor,Eletronicos,Santos,Fernanda,2,1200
+2026-01-29,Notebook,Eletronicos,Sao Paulo,Diego,3,3500
+2026-02-02,Teclado,Acessorios,Campinas,Camila,10,150
+2026-02-04,Mouse,Acessorios,Sao Paulo,Thiago,25,80
+2026-02-06,Monitor,Eletronicos,Campinas,Larissa,5,1200
+2026-02-08,Headset,Acessorios,Santos,Bruno,7,250
+2026-02-10,Notebook,Eletronicos,Santos,Isabela,2,3500
+2026-02-12,Mouse,Acessorios,Campinas,Eduardo,14,80
+2026-02-15,Teclado,Acessorios,Sao Paulo,Sofia,15,150
+2026-02-17,Monitor,Eletronicos,Santos,Henrique,3,1200
+2026-02-19,Headset,Acessorios,Campinas,Amanda,9,250
+2026-02-21,Notebook,Eletronicos,Sao Paulo,Matheus,1,3500
+2026-02-24,Mouse,Acessorios,Santos,Arthur,22,80
+2026-02-26,Teclado,Acessorios,Campinas,Joao,11,150
+2026-02-28,Monitor,Eletronicos,Sao Paulo,Maria,2,1200
+2026-03-02,Notebook,Eletronicos,Campinas,Carlos,3,3500
+2026-03-04,Mouse,Acessorios,Sao Paulo,Ana,30,80
+2026-03-06,Headset,Acessorios,Santos,Pedro,8,250
+2026-03-08,Monitor,Eletronicos,Campinas,Juliana,4,1200
+2026-03-10,Teclado,Acessorios,Sao Paulo,Lucas,13,150
+2026-03-12,Notebook,Eletronicos,Santos,Marina,1,3500
+2026-03-15,Mouse,Acessorios,Campinas,Rafael,17,80
+2026-03-17,Headset,Acessorios,Sao Paulo,Beatriz,12,250
+2026-03-19,Monitor,Eletronicos,Santos,Gabriel,5,1200
+2026-03-21,Notebook,Eletronicos,Sao Paulo,Fernanda,2,3500
+2026-03-23,Teclado,Acessorios,Campinas,Diego,9,150
+2026-03-25,Mouse,Acessorios,Santos,Camila,21,80
+2026-03-27,Monitor,Eletronicos,Sao Paulo,Thiago,3,1200
+2026-03-29,Headset,Acessorios,Campinas,Larissa,11,250
+2026-04-01,Notebook,Eletronicos,Santos,Bruno,2,3500
+2026-04-03,Mouse,Acessorios,Sao Paulo,Isabela,27,80
+2026-04-05,Teclado,Acessorios,Santos,Eduardo,14,150
+2026-04-07,Monitor,Eletronicos,Campinas,Sofia,6,1200
+2026-04-09,Headset,Acessorios,Sao Paulo,Henrique,10,250
+2026-04-11,Notebook,Eletronicos,Campinas,Amanda,1,3500
+2026-04-13,Mouse,Acessorios,Santos,Matheus,19,80
+2026-04-15,Teclado,Acessorios,Sao Paulo,Arthur,16,150
+2026-04-17,Monitor,Eletronicos,Santos,Joao,4,1200
+2026-04-19,Headset,Acessorios,Campinas,Maria,7,250
+2026-04-21,Notebook,Eletronicos,Sao Paulo,Carlos,2,3500
+2026-04-23,Mouse,Acessorios,Campinas,Ana,23,80
+2026-04-25,Teclado,Acessorios,Santos,Pedro,12,150
+2026-04-27,Monitor,Eletronicos,Sao Paulo,Juliana,3,1200
+2026-04-29,Headset,Acessorios,Santos,Lucas,9,250
+2026-05-02,Notebook,Eletronicos,Campinas,Marina,3,3500
+2026-05-04,Mouse,Acessorios,Sao Paulo,Rafael,32,80
+2026-05-06,Teclado,Acessorios,Campinas,Beatriz,15,150
+2026-05-08,Monitor,Eletronicos,Santos,Gabriel,2,1200
+2026-05-10,Headset,Acessorios,Sao Paulo,Fernanda,13,250
+2026-05-12,Notebook,Eletronicos,Santos,Diego,1,3500
+2026-05-14,Mouse,Acessorios,Campinas,Camila,20,80
+2026-05-16,Teclado,Acessorios,Sao Paulo,Thiago,18,150
+2026-05-18,Monitor,Eletronicos,Campinas,Larissa,5,1200
+2026-05-20,Headset,Acessorios,Santos,Bruno,8,250
+2026-05-22,Notebook,Eletronicos,Sao Paulo,Isabela,2,3500
+2026-05-24,Mouse,Acessorios,Santos,Eduardo,24,80
+2026-05-26,Teclado,Acessorios,Campinas,Sofia,10,150
+2026-05-28,Monitor,Eletronicos,Sao Paulo,Henrique,4,1200
+2026-05-30,Headset,Acessorios,Campinas,Amanda,14,250
+2026-06-02,Notebook,Eletronicos,Santos,Matheus,2,3500
+2026-06-04,Mouse,Acessorios,Sao Paulo,Arthur,28,80
+2026-06-06,Teclado,Acessorios,Santos,Joao,17,150
+2026-06-08,Monitor,Eletronicos,Campinas,Maria,3,1200
+2026-06-10,Headset,Acessorios,Sao Paulo,Carlos,11,250
+2026-06-12,Notebook,Eletronicos,Campinas,Ana,1,3500
+2026-06-14,Mouse,Acessorios,Santos,Pedro,26,80
+2026-06-16,Teclado,Acessorios,Sao Paulo,Juliana,19,150
+2026-06-18,Monitor,Eletronicos,Santos,Lucas,5,1200
+2026-06-20,Headset,Acessorios,Campinas,Marina,9,250
+2026-06-22,Notebook,Eletronicos,Sao Paulo,Rafael,3,3500
+2026-06-24,Mouse,Acessorios,Campinas,Beatriz,31,80
+2026-06-26,Teclado,Acessorios,Santos,Gabriel,13,150
+2026-06-28,Monitor,Eletronicos,Sao Paulo,Fernanda,2,1200
+2026-06-30,Headset,Acessorios,Santos,Diego,12,250
